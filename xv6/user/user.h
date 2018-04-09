@@ -22,6 +22,7 @@ int mkdir(char*);
 int chdir(char*);
 int dup(int);
 int getpid(void);
+int howmanysys(void);
 char* sbrk(int);
 int sleep(int);
 int uptime(void);

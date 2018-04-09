@@ -9,6 +9,8 @@ USER_PROGS := \
 	kill\
 	ln\
 	ls\
+	hello\
+	syscalls\
 	mkdir\
 	rm\
 	sh\
